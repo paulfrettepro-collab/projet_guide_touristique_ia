@@ -1,0 +1,10 @@
+# Assistant Parisien - Guide Touristique IA
+# Dépendances Python requises
+
+# Version de Python recommandée: 3.11+
+
+# API OpenAI pour l'intégration GPT
+openai>=1.12.0
+
+# Pour la gestion des variables d'environnement (optionnel mais recommandé)
+python-dotenv>=1.0.0
